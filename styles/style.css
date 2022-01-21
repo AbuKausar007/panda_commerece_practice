@@ -1,0 +1,30 @@
+.slider_bg_color{
+    background-color: #FEEAE9;
+}
+.btn_custom{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.categories img{
+    width: 100px;
+}
+.watch_bg{
+   background-color: #fff228;
+}
+.bag_bg{
+    background-color: #ec83e8;
+}
+.shoe_bg{
+    background-color: #2f7ff4;
+}
+.shoe_img_size img{
+    width: 350px;
+    height: 210px;
+}
+.bag_img_size img{
+    height: 325px;
+    width: 350px;
+}
